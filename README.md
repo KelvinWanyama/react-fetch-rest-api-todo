@@ -1,3 +1,6 @@
+# react-fetch-rest-api-todo
+Simple React App that Fetches data through and API and display on the card using bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
